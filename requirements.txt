@@ -1,0 +1,16 @@
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+notebook
+xgboost
+scikit-learn
+imblearn
+fastparquet
+pyarrow
+mapie
+polars
+joblib
+scipy
+
